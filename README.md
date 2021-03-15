@@ -15,4 +15,8 @@ No change has been made on most styles like font styles, font types, font sizes.
 ## Installation
 
 NO installation is required. You can just clone the repository and everything is expected to work just fine.
-However internet connection is required to load the bootstrap 5 css + icons
+However internet connection is required in order to load the bootstrap 5 css + icons
+
+## Running
+
+After cloning the repository, just open index.html in a browser.
