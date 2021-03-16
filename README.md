@@ -1,6 +1,6 @@
 # Kadana Group Limited landing page
 
-This repository is a modified version of kadanagroup.co.ke
+This repository is a modified version of <a href="kadanagroup.co.ke">Kadana Group Limited</a> webpage
 
 No change has been made on most styles like font styles, font types, font sizes.
 
@@ -19,4 +19,4 @@ However internet connection is required in order to load the bootstrap 5 css + i
 
 ## Running
 
-After cloning the repository, just open index.html in a browser.
+After cloning the repository, just open *index.html* in a browser.
